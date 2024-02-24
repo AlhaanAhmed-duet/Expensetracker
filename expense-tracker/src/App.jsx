@@ -1,5 +1,5 @@
 import './App.css'
-import {useEffect, useState } from 'react'
+import {useState } from 'react'
 import ExpenseForm from './Components/Common/ExpenseForm/main'
 import ExpenseTitle from './Components/Common/ExpenseTitle/main'
 import ExpenseItem from './Components/Common/ExpenseItem/main'
